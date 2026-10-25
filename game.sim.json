@@ -1,0 +1,16 @@
+{
+  "schema": "mosaico-game-sim/v1",
+  "sources": [
+    "main/game_module.c",
+    "main/game.c",
+    "main/sd_cjk_font.c",
+    "main/sd_store_host.c",
+    "main/sd_sfx_host.c",
+    "main/sd/sd_cards.c",
+    "main/sd/sd_duel.c",
+    "main/sd/sd_ai.c",
+    "main/sd/sd_text.c",
+    "main/sd/sd_progress.c",
+    "main/sd/sd_session.c"
+  ]
+}

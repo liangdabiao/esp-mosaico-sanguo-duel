@@ -1,0 +1,8 @@
+build/
+build-host/
+.codex-runs/
+managed_components/
+tests/build/
+*.exe
+__pycache__/
+build-host/
